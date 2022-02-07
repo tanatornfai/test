@@ -1,0 +1,3 @@
+[submodule "4nalyze-export"]
+	path = 4nalyze-export
+	url = https://github.com/tanatornfai/4nalyze-export.git
